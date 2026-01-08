@@ -1,4 +1,7 @@
-namespace FFlags {
+#pragma once
+
+namespace FFlags
+{
     uintptr_t ACSReturnPromiseException = 0x6811820;
     uintptr_t ACSValidateTokenWithRegex = 0x68118c0;
     uintptr_t ADS4948SendUniverseIdToEventStream = 0x6837d90;
